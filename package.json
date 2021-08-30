@@ -16,6 +16,7 @@
     "concurrently": "^5.1.0"
   },
   "dependencies": {
+    "apollo-server-core": "^3.3.0",
     "apollo-server-express": "^3.3.0"
   }
 }
